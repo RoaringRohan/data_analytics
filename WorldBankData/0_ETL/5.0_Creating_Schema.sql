@@ -1,0 +1,1 @@
+CREATE SCHEMA `world_bank_data` ;
